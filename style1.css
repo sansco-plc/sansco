@@ -1,0 +1,68 @@
+h1{
+ display:flex;
+ justify-content: center;
+ color: rgb(69, 69, 153);
+ font-size: 30px;
+ padding-left: 1opx;   
+}
+.domestic{
+ justify-content: center;
+ display: flex;
+ background-color: rgb(62, 62, 120);
+ color: white;
+ margin-top: -20px;
+ width: fit-content;
+ margin: 0 auto;
+ padding: 0px 15px;
+ padding-bottom: 5px;
+}
+.product{
+  justify-content: center;
+  display: flex;
+  color: rgb(66, 66, 116);
+  color: rgb(27, 27, 54);
+  font-size: 18px;  
+}
+.goods{
+   justify-content: center;
+   display: flex;
+   color: rgb(80, 80, 132);
+   font-size: 15px; 
+}
+.phone{
+    justify-content: center;
+    display: flex;
+    color: white;
+    width: fit-content;
+    background-color: rgb(227, 135, 14);
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 0px 15px;
+    padding-bottom: 5px;
+}
+h3{
+
+}
+  
+  
+    
+
+.center-pic{
+    display: flex;
+    justify-content: center;
+}
+.center-pic img {
+    margin: 0 4px;
+    width: 200px;
+    height: 170px;
+    background: goldenrod;
+    padding: 2px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.footer h3{
+    margin: 5px 10px;
+}
